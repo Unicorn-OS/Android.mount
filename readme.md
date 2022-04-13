@@ -1,0 +1,1 @@
+Don't automount Android USB devices! Used if there's a bug instability or bad cable, causing it to rapidly attach/detach: https://linuxconfig.org/how-to-disable-gui-desktop-usb-automount-on-linux-system , sch: https://www.google.com/search?q=ubuntu+don%27t+auto+mount+android , https://www.google.com/search?q=nautilus+don%27t+auto+mount+androi
